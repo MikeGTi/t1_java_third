@@ -1,2 +1,4 @@
 # t1_java_third
-t1 service for get random decision: unlock/lock client/account, by http request
+Spring Boot service for random decision, by http request: 
+    - unlock/lock client
+    - unlock/lock account
